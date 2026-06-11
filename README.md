@@ -1,31 +1,60 @@
-# AI-Powered Restaurant Sales Analytics
+# AI-Powered Restaurant Sales Intelligence System
 
-This is an end-to-end data analytics and AI project focused on restaurant sales reporting, business intelligence, and sales forecasting.
+This is an end-to-end data analytics, business intelligence, machine learning, and AI project focused on restaurant sales analysis and forecasting.
 
-## Project Goal
+## Project Objective
 
-The goal of this project is to analyse restaurant sales data, identify business trends, build a Power BI dashboard, and develop a machine learning model to support sales forecasting and decision-making.
-
-## Tools and Technologies
-
-- Python
-- Pandas
-- NumPy
-- SQL
-- Power BI
-- Scikit-learn
-- GitHub
+The goal of this project is to build a complete restaurant sales intelligence system that can help analyse business performance, identify sales trends, generate insights, forecast future sales, and support data-driven decision-making.
 
 ## Project Features
 
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- SQL-based reporting
-- Power BI dashboard
-- Sales trend analysis
-- Machine learning sales prediction
-- Business recommendations
+* Data collection and cleaning
+* Exploratory data analysis using Python
+* SQL-based business reporting
+* Power BI dashboard development
+* Sales forecasting using machine learning
+* AI-powered business insights assistant
+* Final business recommendations and reporting
+
+## Tools and Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* SQL
+* Scikit-learn
+* Power BI
+* Streamlit
+* GitHub
+
+## Project Structure
+
+restaurant-sales-ai-analytics/
+
+data/
+
+* raw/
+* processed/
+
+notebooks/
+src/
+sql/
+powerbi/
+reports/
+app/
+
+README.md
+requirements.txt
+.gitignore
+LICENSE
 
 ## Project Status
 
 In progress
+
+## Note
+
+This project is being developed as a high-end portfolio project for data analytics, business intelligence, machine learning, and AI roles.
+
