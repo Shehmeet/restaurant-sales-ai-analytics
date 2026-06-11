@@ -1,0 +1,11 @@
+order_id,date,time,item,category,quantity,unit_price,payment_method,order_type
+1,2025-01-01,12:15,Chicken Burger,Main,2,14.50,EFTPOS,Dine-in
+2,2025-01-01,12:45,Fries,Side,1,5.00,Cash,Takeaway
+3,2025-01-01,13:10,Beef Burger,Main,1,15.50,EFTPOS,Dine-in
+4,2025-01-02,18:20,Chicken Wrap,Main,2,12.00,Card,Takeaway
+5,2025-01-02,19:05,Coke,Drink,3,3.50,EFTPOS,Dine-in
+6,2025-01-03,12:30,Lamb Kebab,Main,1,16.00,Cash,Takeaway
+7,2025-01-03,13:00,Fries,Side,2,5.00,Card,Dine-in
+8,2025-01-04,18:40,Chicken Burger,Main,3,14.50,EFTPOS,Dine-in
+9,2025-01-04,19:30,Garlic Bread,Side,1,6.50,Card,Takeaway
+10,2025-01-05,12:10,Beef Burger,Main,2,15.50,EFTPOS,Dine-in
